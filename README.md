@@ -1,0 +1,4 @@
+SyncMLClient
+============
+
+Synchronization  Android Side
